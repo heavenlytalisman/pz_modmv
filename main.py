@@ -3,7 +3,7 @@ import shutil
 import getpass
 
 s_folder = os.getcwd()
-uname - getpass.getuser()
+uname = getpass.getuser()
 
 destination = f"C:/Users/{uname}/Zomboid/mods"
 
